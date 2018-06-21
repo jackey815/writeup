@@ -34,6 +34,6 @@ cd /d "C:\php\htdocs"&winrar a -pk@e#y1020 key.rar key.jpg&echo [S]&cd&echo [E]
 winrar -p密码，所以密码为：k@e#y1020
 ```
 ##### 导出文件后，选择对应的大小大的php文件，去除菜刀头```->|```后改后缀rar。
-![image](https://thumbnail0.baidupcs.com/thumbnail/72849efe597651aefdafddeb15819c6a?fid=672655258-250528-1052607478632189&time=1529589600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-yAvSmKe663XyTHFd4SM46Qy8BdU%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3987538421716694007&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![image](https://github.com/jackey815/writeup/blob/master/misc2/2.png)
 #####  解压后得到图片key：
-![image](https://thumbnail0.baidupcs.com/thumbnail/be0a6724afe9d252b09167fa4e08056f?fid=672655258-250528-471674528400567&time=1529589600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-j7ThlLPO8ny%2B3lsvpngkvfi1xPg%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3987559608042587670&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![image](https://github.com/jackey815/writeup/blob/master/misc2/key1.jpg)
