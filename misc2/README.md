@@ -34,6 +34,6 @@ cd /d "C:\php\htdocs"&winrar a -pk@e#y1020 key.rar key.jpg&echo [S]&cd&echo [E]
 winrar -p密码，所以密码为：k@e#y1020
 ```
 ##### 导出文件后，选择对应的大小大的php文件，去除菜刀头```->|```后改后缀rar。
-![image](https://github.com/jackey815/writeup/blob/master/misc2/2.png)
+![image](https://github.com/jackey815/writeup/blob/master/misc2/2.PNG)
 #####  解压后得到图片key：
 ![image](https://github.com/jackey815/writeup/blob/master/misc2/key1.jpg)
