@@ -21,3 +21,6 @@ print quopri.decodestring("=E4=B8=89=E5=B8=9D=E4=BA=94=E5=B8=81=E4=B8=83=E6=98=9
 
 ```
 3d5b7en6optu8vy9
+```
+
+将=号去掉后，在notepad++中利用插件也可以获得此效果。
