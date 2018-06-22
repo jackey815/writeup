@@ -3,7 +3,7 @@
 参考[：https://blog.csdn.net/yiyefangzhou24/article/details/11760277?_t_t_t=0.25886626888210196](https://blog.csdn.net/yiyefangzhou24/article/details/11760277?_t_t_t=0.25886626888210196)
 ##### 使用工具mimikatz
 dump文件和mimikatz的版本对应关系，对应关系如图：
-![image](https://github.com/jackey815/writeup/blob/master/misc3/1.PNG)
+![image](https://github.com/jackey815/writeup/blob/master/18_621writeup/misc3/1.PNG)
 
 将文件拷入到xp x86机子，使用命令
 ```
